@@ -1,0 +1,1 @@
+https://www.kaggle.com/semustafacevik/software-defect-prediction?select=jm1.csv

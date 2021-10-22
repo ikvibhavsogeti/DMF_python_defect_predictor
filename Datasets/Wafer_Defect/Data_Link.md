@@ -1,0 +1,1 @@
+https://www.kaggle.com/co1d7era/mixedtype-wafer-defect-datasets
