@@ -6,6 +6,12 @@
 - https://www.tensorflow.org/tutorials/keras/classification
 - https://www.kualitatem.com/blog/software-defect-priority-and-severity-levels/
 
+## Mixed-type Wafer Map 
+- 38000 mixed-mode wafer map to assist with a wafer manufacturing defect cause
+- Defects:-
+    - 1 normal type
+    - 8 single type
+    - 29 mixed-type
 
 
 
